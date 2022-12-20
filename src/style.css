@@ -1,0 +1,17 @@
+:root {
+    --font-heading: 'Roboto Condensed', sans-serif;
+    --font-body: 'Outfit', sans-serif;
+    --primary-color: #C7B9F2;
+    --secondary-color: #D69EEE;
+}
+
+body {
+    font-family: var(--font-body);
+    margin-top: 50px;
+}
+
+h1 {
+    font-family: var(--font-heading);
+    color: var(--secondary-color);
+ font-weight: 700;
+}
